@@ -10,8 +10,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 In this project, I built a simple GUI application using Tkinter that allows users to upload an image and reconstruct it using Singular Value Decomposition (SVD).
 
-
-
+<br />
 
 ## Micro Projects
 - ### Statistics and Machine Learning
