@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes.
 
 - **Email**: [haiiminh12@gmail.com](haiiminh12@gmail.com)
-- **LinkedIn**: [linkedin.com/minh-hai-tran](www.linkedin.com/in/minh-hai-tran-19101b217](https://www.linkedin.com/in/minh-hai-tran-19101b217/)
+- **LinkedIn**: [linkedin.com/minh-hai-tran](https://www.linkedin.com/in/minh-hai-tran-19101b217/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
