@@ -6,9 +6,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20082830.png"> **[SVD with GUI]**
+<img align="left" width="250" height="150" src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20082830.png"> **[SVD Image Compression GUI]**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project, I built a simple GUI application using Tkinter that allows users to upload an image and reconstruct it using Singular Value Decomposition (SVD).
 
 
 ## Micro Projects
