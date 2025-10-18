@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="Screenshot 2025-10-19 090327.png"> **[SVD Image Compression GUI](https://github.com/minhhai1208/SVD-with-GUI)**
+<img align="left" width="250" height="150" src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20090327.png"> **[SVD Image Compression GUI](https://github.com/minhhai1208/SVD-with-GUI)**
 
 In this project, I built a simple GUI application using Tkinter that allows users to upload an image and reconstruct it using Singular Value Decomposition (SVD).
 
