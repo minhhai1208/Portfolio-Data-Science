@@ -11,6 +11,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 In this project, I built a simple GUI application using Tkinter that allows users to upload an image and reconstruct it using Singular Value Decomposition (SVD).
 
 
+
+
 ## Micro Projects
 - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/minhhai1208/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
