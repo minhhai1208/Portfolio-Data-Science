@@ -30,7 +30,7 @@ While a strong understanding of theory is essential, I believe that **the true v
 
 ## Side Projects
 
-- ### Computer Vision (CNN)
+- ### Computer Vision
     - [Hand Language Classification](https://github.com/minhhai1208/handLanguageClasstification/tree/main)  
 
       A project to classify hand gestures from images. After experimenting with traditional feature-based preprocessing (**HOG, DCT, DWT**) and achieving modest results, I implemented a **Convolutional Neural Network (CNN) with data augmentation**, which achieved **nearly 100% accuracy** on both training and test sets.  
