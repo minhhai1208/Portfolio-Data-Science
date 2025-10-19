@@ -28,4 +28,7 @@ While a strong understanding of theory is essential, I believe that **the true v
 </tr>
 </table>
 
+## Side Projects
+- ### Computer Vision(HOG, DCT, DWT, CNN)
+    - [HandLanguageClassification](https://github.com/minhhai1208/handLanguageClasstification/tree/main) : In this project, I have shown that if we didnot use any preprocessing, the result will be bad
 
