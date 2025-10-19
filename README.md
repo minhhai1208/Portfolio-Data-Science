@@ -4,10 +4,6 @@ Welcome to my **Data Science Portfolio**, a collection of projects that showcase
 
 While a strong understanding of theory is essential, I believe that **the true value of data science lies in its application**. Concepts alone do not solve problems—**building working solutions that deliver insights and impact is what drives me**.  
 
-I have a solid foundation in **mathematics, statistics, machine learning, and deep learning**, which enables me to design, implement, and optimize data-driven solutions. My projects emphasize **practical applications and Business Analytics**, where data insights translate into actionable results.  
-
-Whether it’s developing predictive models, building interactive dashboards, or implementing advanced algorithms, my focus is always on **solving real problems with rigor and creativity**.
-
 - **Email**: [haiiminh12@gmail.com](haiiminh12@gmail.com)
 - **LinkedIn**: [linkedin.com/minh-hai-tran](https://www.linkedin.com/in/minh-hai-tran-19101b217/)
 
