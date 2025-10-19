@@ -45,6 +45,7 @@ While a strong understanding of theory is essential, I believe that **the true v
       The model achieved **high accuracy** on both training and test sets, highlighting my skills in **deep learning for NLP, text preprocessing, and handling imbalanced datasets**.  
 
     - storyGenerator Using LSTM - [Click here for more details](https://github.com/minhhai1208/storyGenerator/tree/main)
+      
        This project trains a **word-level LSTM model** on the text of *Alice in Wonderland* to generate new story sequences. Starting with random words, the model learns the style, structure, and word dependencies of the original text.
       
-  It demonstrates skills in **sequence modeling, embedding layers, LSTM training, and text generation** using PyTorch.
+       It demonstrates skills in **sequence modeling, embedding layers, LSTM training, and text generation** using PyTorch.
