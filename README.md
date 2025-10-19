@@ -18,8 +18,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ### SVD Image Compression GUI – [Click here for more details](https://github.com/minhhai1208/SVD-with-GUI)
 
 - **Description**: Interactive GUI to upload an image and reconstruct it using **Singular Value Decomposition (SVD)**. Users can choose **rank-based** or **error-based** approximation and visualize results in real-time.  
-- **Tech stack**: Python, Tkinter, NumPy, PIL, imageio  
-- **Key learning/skills demonstrated**: Low-rank matrix approximation, memory-efficient data representation, GUI development, image processing  
+- **Tech stack**: Python, Tkinter, NumPy, PIL, imageio. 
+- **Key learning/skills demonstrated**: Low-rank matrix approximation, memory-efficient data representation, GUI development, image processing.  
 
 </td>
 </tr>
