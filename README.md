@@ -36,6 +36,12 @@ While a strong understanding of theory is essential, I believe that **the true v
       A project to classify hand gestures from images. After experimenting with traditional feature-based preprocessing (**HOG, DCT, DWT**) and achieving modest results, I implemented a **Convolutional Neural Network (CNN) with data augmentation**, which achieved **nearly 100% accuracy** on both training and test sets.  
 
       Highlights my skills in **deep learning, image preprocessing, and robust model development**.
+      
+- ### Natural Language Processing
+    - [Email Spam Classification Using CNN](https://github.com/minhhai1208/spamEmailDetection)  
 
+      This project detects spam messages in Email data using a **1D Convolutional Neural Network (CNN)**. After cleaning and tokenizing text, I handled class imbalance with **SMOTE** and trained a CNN with **embedding, convolution, pooling, dropout, and batch normalization layers**.  
+
+      The model achieved **high accuracy** on both training and test sets, highlighting my skills in **deep learning for NLP, text preprocessing, and handling imbalanced datasets**.  
 
 
