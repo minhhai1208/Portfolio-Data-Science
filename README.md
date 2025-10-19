@@ -6,9 +6,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-![SVD GUI](https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20090327.png)
+<img align="left" width="250" height="150" src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20090327.png"> **[SVD Image Compression GUI]– [Click here for more detail](https://github.com/minhhai1208/SVD-with-GUI)
 
-### [SVD Image Compression GUI](https://github.com/minhhai1208/SVD-with-GUI) – [Click here for more detail](https://github.com/minhhai1208/SVD-with-GUI)
 
 - **Description**: Interactive GUI to upload an image and reconstruct it using **Singular Value Decomposition (SVD)**. Users can choose **rank-based** or **error-based** approximation and visualize results in real-time.
 - **Tech stack**: Python, Tkinter, NumPy, PIL, imageio
