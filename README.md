@@ -30,5 +30,12 @@ While a strong understanding of theory is essential, I believe that **the true v
 
 ## Side Projects
 - ### Computer Vision(HOG, DCT, DWT, CNN)
-    - [HandLanguageClassification](https://github.com/minhhai1208/handLanguageClasstification/tree/main) : In this project, I have shown that if we didnot use any preprocessing, the result will be bad
+    - [HandLanguageClassification](https://github.com/minhhai1208/handLanguageClasstification/tree/main):
+
+This project focuses on classifying hand gestures from images. Initially, I naively trained some models without any preprocessing, which produced poor results. I then applied traditional preprocessing techniques such as **HOG, DCT, and DWT**, which improved performance and gave reasonably good results.  
+
+Ultimately, implementing a **Convolutional Neural Network (CNN) with data augmentation** far outperformed these traditional methods, achieving **nearly 100% accuracy on both training and test sets**.  
+
+This project demonstrates how **deep learning with augmentation can robustly handle complex image classification**, far surpassing traditional feature-based approaches.
+
 
