@@ -24,7 +24,14 @@ While a strong understanding of theory is essential, I believe that **the true v
 - **Tech stack**: Python, Tkinter, NumPy, PIL, imageio. 
 - **Key learning/skills demonstrated**: Low-rank matrix approximation, memory-efficient data representation, GUI development, image processing.  
 
-### Applied xAI in the Stroke dataset - [Click here for more details]
+### Applied xAI in the Stroke dataset - [Click here for more details](https://github.com/minhhai1208/stroke-xai-analysis/tree/main)
+
+- **Description**: Applied counterfactual explanations to a clinical stroke dataset to interpret individual model predictions and detect clinically implausible outliers that standard exploratory analysis fails to reveal. Counterfactuals are used as a diagnostic tool to improve model interpretability and data quality.
+
+- **Tech stack**: Python, Jupyter Notebook, NumPy, Pandas, scikit-learn.
+
+- **Key learning/skills demonstrated**: Counterfactual explanations, explainable AI (XAI), model interpretability, data quality assessment, clinical plausibility analysis, applied machine learning.
+ 
 </td>
 </tr>
 </table>
