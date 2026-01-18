@@ -24,6 +24,7 @@ While a strong understanding of theory is essential, I believe that **the true v
 - **Tech stack**: Python, Tkinter, NumPy, PIL, imageio. 
 - **Key learning/skills demonstrated**: Low-rank matrix approximation, memory-efficient data representation, GUI development, image processing.  
 
+### Applied xAI in the Stroke dataset - [Click here for more details]
 </td>
 </tr>
 </table>
