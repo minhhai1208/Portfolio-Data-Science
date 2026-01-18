@@ -27,7 +27,6 @@ While a strong understanding of theory is essential, I believe that **the true v
 </td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="260">
