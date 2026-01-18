@@ -23,7 +23,20 @@ While a strong understanding of theory is essential, I believe that **the true v
 - **Description**: Interactive GUI to upload an image and reconstruct it using **Singular Value Decomposition (SVD)**. Users can choose **rank-based** or **error-based** approximation and visualize results in real-time.  
 - **Tech stack**: Python, Tkinter, NumPy, PIL, imageio. 
 - **Key learning/skills demonstrated**: Low-rank matrix approximation, memory-efficient data representation, GUI development, image processing.  
+ 
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td width="260">
+
+<img src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20090327.png" width="250" height="150">
+
+</td>
+<td>
+ 
 ### Applied xAI in the Stroke dataset - [Click here for more details](https://github.com/minhhai1208/stroke-xai-analysis/tree/main)
 
 - **Description**: Applied counterfactual explanations to a clinical stroke dataset to interpret individual model predictions and detect clinically implausible outliers that standard exploratory analysis fails to reveal. Counterfactuals are used as a diagnostic tool to improve model interpretability and data quality.
