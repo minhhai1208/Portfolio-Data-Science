@@ -32,7 +32,7 @@ While a strong understanding of theory is essential, I believe that **the true v
 <tr>
 <td width="260">
 
-<img src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Screenshot%202025-10-19%20090327.png" width="250" height="150">
+<img src="https://github.com/minhhai1208/Portfolio-Data-Science/blob/main/Explainable-AI-Concept-1-660.png" width="250" height="150">
 
 </td>
 <td>
